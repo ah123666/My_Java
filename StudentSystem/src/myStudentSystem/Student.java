@@ -1,5 +1,5 @@
 package myStudentSystem;
 
 public class Student {
-	private String sid;
+	private String id;
 }
