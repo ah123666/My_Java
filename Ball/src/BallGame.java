@@ -55,7 +55,7 @@ public class BallGame extends JFrame{
 			}
 		}
 		System.out.println("Game End!");
-		return;
+		System.exit(0);
 	}
 	
 
